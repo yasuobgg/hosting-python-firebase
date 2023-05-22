@@ -2,7 +2,6 @@
 # from flask_sqlalchemy import SQLAlchemy
 # from send_mail import send_mail
 
-# app = Flask(__name__)
 
 # ENV = 'dev'
 
